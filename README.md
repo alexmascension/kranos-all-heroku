@@ -15,6 +15,7 @@ From this part you can follow in two ways.
 
 ### Use heroku as remote
 To push the changes you can create a heroku remote, and push the changes.
+
 5. `heroku git:remote -a <APPNAME>`. In this case, it is `heroku git:remote -a kranos-all`.
 6. `git push heroku master` (or the name of the branch)
 
